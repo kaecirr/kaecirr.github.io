@@ -116,7 +116,7 @@ p {
 	margin-right: 0;
 }
 
-ul {
+.move {
 	position: relative;
 	top: 10px;
 	width: 770px;
@@ -140,4 +140,17 @@ ul {
 .email:hover {
 	text-decoration: underline;
 	color: #ffffff;
+}
+
+#links {
+	position: absolute;
+	position: absolute;
+	width:20%;
+	height:auto;
+	top: 220px;
+	left: 630px;
+}
+
+.lessPad{
+	padding-left: 20px;
 }
